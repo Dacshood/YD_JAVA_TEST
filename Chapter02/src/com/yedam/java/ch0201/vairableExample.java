@@ -55,10 +55,11 @@ public class vairableExample {
 			
 		}
 //		
-//		for(int i =0; i<10; i++) {
-//			int sum = i;
-//					sum= i + 1;
-//		}
+		for(int i =0; i<10; i++) {
+			int sum = i;
+					sum= i + 1;
+					System.out.println(sum);
+		}
 		
 		int m = 10;
 		
